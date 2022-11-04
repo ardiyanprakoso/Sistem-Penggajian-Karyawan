@@ -56,7 +56,7 @@ class penggajian_karyawan {
             System.out.println("=================================");
         } else {
             System.out.println("=================================");
-            System.out.println("           Login Galgal   ");
+            System.out.println("           Login Gagal   ");
             System.out.println("=================================");
             do {
                 System.out.println("=============LOGIN===============");
