@@ -59,7 +59,7 @@ class penggajian_karyawan {
             System.out.println("           Login Gagal   ");
             System.out.println("=================================");
             do {
-                System.out.println("=============LOGIN===============");
+                System.out.println("============ LOGIN ==============");
                 System.out.print("   Masukkan username : ");
                 my_user = br.readLine();
                 System.out.print("   Masukkan password : ");
